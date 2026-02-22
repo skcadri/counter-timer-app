@@ -5,6 +5,10 @@ A minimal macOS app with a counter and a timer. Built with SwiftUI in a single f
 ![macOS](https://img.shields.io/badge/macOS-14%2B-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange)
 
+<p align="center">
+  <img src="screenshot.png" alt="Counter Timer screenshot" width="450">
+</p>
+
 ## Features
 
 **Counter**
