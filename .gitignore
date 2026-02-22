@@ -1,0 +1,7 @@
+# Build artifacts
+CounterTimer
+Counter Timer.app/
+icon.iconset/
+icon_512.png
+AppIcon.icns
+.DS_Store
